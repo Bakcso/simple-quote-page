@@ -1,0 +1,30 @@
+/* CSS reset */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  line-height: 1.5;
+}
+
+body {
+  width: 100%;
+  height: 100vh; 
+  background: url("assets/letöltés.jpg") no-repeat center;
+  background-size: cover;
+}
+
+
+
+.szoveg {
+  font-family: Mistral;
+  font-size: 45px;
+  text-align: center;
+  color: white;
+}
+
+.szerzo {
+  font-family: Mistral;
+  font-size: 40px;
+  text-align: center;
+}
